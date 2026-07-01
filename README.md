@@ -48,6 +48,16 @@ const abhinav = {
 
 ---
 
+## 🔭 What I'm Up To
+
+- 🔨 **Building:** Something cool (coming soon...)
+- 📖 **Learning:** `Python for AI/ML & Deep Learning`
+- 💬 **Ask me about:** `React, Spring Boot, Android, DSA`
+- 🎯 **2025 Goal:** Crack top 5% on LeetCode
+- ⚡ **Fun fact:** I debug with `console.log` and I'm not ashamed
+
+---
+
 ## ⚡ Tech Stack & Skills
 
 <div align="center">
@@ -62,6 +72,7 @@ const abhinav = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📱 Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -80,16 +91,31 @@ const abhinav = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Terminal](https://img.shields.io/badge/Terminal-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Stats
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinav101010&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=-C,-B" />
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abhinav101010&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🎯 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/abhinav118rg?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -114,26 +140,12 @@ const abhinav = {
 
 ---
 
-## 🎯 LeetCode Stats
+## 🎵 Now Playing on Spotify
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/abhinav118rg?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" />
-</div>
-
----
-
-## 🎲 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=315za642egs75vdmaaoizuncraei&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315za642egs75vdmaaoizuncraei&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 ---
@@ -144,6 +156,7 @@ const abhinav = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-abhinav101010-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav101010)
 [![LeetCode](https://img.shields.io/badge/LeetCode-abhinav118rg-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhinav118rg)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify-github-profile.kittinanx.com/api/view?uid=315za642egs75vdmaaoizuncraei&redirect=true)
 
 </div>
 
@@ -153,6 +166,6 @@ const abhinav = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
-<sub><i>If you like what you see, drop a star on something!</i></sub>
+<sub><i>If you like what you see, drop a star on something! ⭐</i></sub>
 
 </div>
