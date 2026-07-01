@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hey+there%2C+I'm+Abhinav+%F0%9F%91%8B;React+Frontend+Developer+%E2%9A%9B%EF%B8%8F;Spring+Boot+Backend+Engineer+%E2%98%95;Android+App+Developer+%F0%9F%93%B1;AI%2FML+Explorer+%F0%9F%A4%96;LeetCode+Grinder+%F0%9F%94%A5;Building+cool+stuff+one+bug+at+a+time+%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hey+there%2C+I'm+Abhinav+%F0%9F%91%8B;2nd+Year+B.Tech+CSE+AI%2FML+Student+%F0%9F%8E%93;React+Frontend+Developer+%E2%9A%9B%EF%B8%8F;Spring+Boot+Backend+Engineer+%E2%98%95;Android+App+Developer+%F0%9F%93%B1;AI%2FML+Explorer+%F0%9F%A4%96;LeetCode+Grinder+%F0%9F%94%A5;Building+cool+stuff+one+bug+at+a+time+%F0%9F%90%9B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,14 +25,18 @@
 
 ```javascript
 const abhinav = {
-  username:  "abhinav101010",
-  leetcode:  "abhinav118rg",
+  username:   "abhinav101010",
+  education:  "B.Tech CSE AI/ML | 2nd Year 🎓",
+  leetcode:   "abhinav118rg",
 
-  frontend:  ["ReactJS", "HTML", "CSS", "JavaScript"],
-  backend:   ["Java", "Spring Boot", "REST APIs"],
-  mobile:    ["Android Studio", "Java"],
-  learning:  ["Python 🐍", "AI/ML", "Deep Learning"],
-  cp:        ["C++", "LeetCode", "DSA"],
+  frontend:   ["ReactJS", "HTML", "CSS", "JavaScript"],
+  backend:    ["Java", "Spring Boot", "REST APIs"],
+  mobile:     ["Android Studio", "Java"],
+  learning:   ["Python 🐍", "AI/ML", "Deep Learning"],
+  cp:         ["C++", "LeetCode", "DSA"],
+
+  roots:      ["jQuery", "Bootstrap", "PHP"],  // where it all started 🌱
+  evolved:    ["React", "Spring Boot", "Android"],
 
   currentlyDoing: [
     "⚛️  Crafting slick UIs with ReactJS",
@@ -42,19 +46,9 @@ const abhinav = {
     "⚔️  Grinding LeetCode daily",
   ],
 
-  lifePhilosophy: () => "Ship fast. Debug faster. Never stop learning. 🚀"
+  lifePhilosophy: () => "Everything is Temporary!"
 };
 ```
-
----
-
-## 🔭 What I'm Up To
-
-- 🔨 **Building:** Something cool (coming soon...)
-- 📖 **Learning:** `Python for AI/ML & Deep Learning`
-- 💬 **Ask me about:** `React, Spring Boot, Android, DSA`
-- 🎯 **2025 Goal:** Crack top 5% on LeetCode
-- ⚡ **Fun fact:** I debug with `console.log` and I'm not ashamed
 
 ---
 
@@ -63,43 +57,35 @@ const abhinav = {
 <div align="center">
 
 ### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+</a>
 
 ### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman&theme=dark" />
+</a>
 
 ### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark" />
+</a>
 
 ### 🤖 AI / ML (Learning)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,numpy&theme=dark" />
+</a>
 
 ### 🛠️ Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Terminal](https://img.shields.io/badge/Terminal-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,cpp,linux&theme=dark" />
+</a>
 
-</div>
+### 🌱 Where It All Started
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,jquery,bootstrap&theme=dark" />
+</a>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinav101010&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=-C,-B" />
 </div>
 
 ---
